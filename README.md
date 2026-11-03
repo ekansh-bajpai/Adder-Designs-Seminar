@@ -8,7 +8,7 @@ Supervisor: Prof. Dr. Wolfgang Müller
 | | |
 |---|---|
 | 📄 **Report** | [report/Seminar_Report_Ekansh_Bajpai.pdf](report/Seminar_Report_Ekansh_Bajpai.pdf) |
-| 🎤 **Slides** | [presentation/Seminar_Presentation_Ekansh_Bajpai.pdf](presentation/Seminar_Presentation_Ekansh_Bajpai.pdf) |
+| 🎤 **Slides** | [PDF](presentation/Seminar_Presentation_Ekansh_Bajpai.pdf) · [PowerPoint](presentation/Seminar_Presentation_Ekansh_Bajpai.pptx) |
 
 ## Abstract
 
@@ -34,7 +34,8 @@ The basics section also covers binary addition, CMOS (pMOS/nMOS), half adders an
 ├── report/
 │   └── Seminar_Report_Ekansh_Bajpai.pdf          # 8-page report (IEEE format)
 └── presentation/
-    └── Seminar_Presentation_Ekansh_Bajpai.pdf    # 23 slides
+    ├── Seminar_Presentation_Ekansh_Bajpai.pdf    # 23 slides
+    └── Seminar_Presentation_Ekansh_Bajpai.pptx   # editable PowerPoint version
 ```
 
 ## References
